@@ -1,2 +1,2 @@
 # hello-world
-hi everybody i an Jin.
+hi everybody i am Jin.
